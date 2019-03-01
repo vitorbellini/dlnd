@@ -1,0 +1,8 @@
+.DS_Store
+P2_dog_project/.DS_Store
+P2_dog_project/dogImages/
+P2_dog_project/lfw/
+P2_dog_project/saved_models/weights.best.from_scratch.hdf5
+P2_dog_project/saved_models/weights.best.vgg16.hdf5
+P2_dog_project/.ipynb_checkpoints/
+P2_dog_project/bottleneck_features/DogVGG16Data.npz

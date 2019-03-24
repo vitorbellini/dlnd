@@ -6,4 +6,6 @@ P2_dog_project/saved_models/weights.best.from_scratch.hdf5
 P2_dog_project/saved_models/weights.best.vgg16.hdf5
 P2_dog_project/.ipynb_checkpoints/
 P1_bike_sharing/.ipynb_checkpoints/
-P2_dog_project/bottleneck_features/DogVGG16Data.npz
+P2_dog_project/bottleneck_features/
+P2_dog_project/saved_models/
+P2_dog_project/__pycache__/
